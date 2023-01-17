@@ -1,0 +1,2 @@
+- [get-started-with-JAX](https://github.com/gordicaleksa/get-started-with-JAX)
+- [YouTube](https://www.youtube.com/watch?v=SstuvS-tVc0)
